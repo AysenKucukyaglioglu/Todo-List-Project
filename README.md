@@ -1,7 +1,7 @@
 # ToDo List Porject
 Yapılacakları organize etmek için basit bir araç tasarladım.
  
-## Kullanılan teknolojiler##
+## Kullanılan teknolojiler
 HTML
 CSS
 Javascript
